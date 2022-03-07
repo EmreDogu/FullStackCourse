@@ -1,0 +1,19 @@
+.oddnumber {
+    background-color: rgb(219, 172, 179);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#number2 {
+    color: #3434ff;
+    font-size: 36px;
+}
+
+.with-flavour {
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: hsl(120, 65%, 65%);
+    font-size: 24px;
+    font-weight: bold;
+}
